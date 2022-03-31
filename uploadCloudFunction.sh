@@ -1,0 +1,1 @@
+"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e white-5go8jmjy41d6180b --n quickstartFunctions --r --project "/Users/lizhuoyuan/Downloads/Duck-Princess-Cultivation-Plan-master" --report_first --report
